@@ -12,6 +12,12 @@ K usb isolation
 F http://www.analog.com/media/en/technical-documentation/data-sheets/ADuM4160.pdf
 $ENDCMP
 #
+$CMP CH340E
+D Full Speed USB to Basic UART, MSOP-10
+K WCH USB UART interface converter
+F http://www.wch.cn/downfile/79
+$ENDCMP
+#
 $CMP CP2102N-A01-GQFN24
 D USB to UART master bridge
 K USB UART bridge
